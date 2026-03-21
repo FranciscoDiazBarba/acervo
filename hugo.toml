@@ -1,0 +1,6 @@
+baseURL = 'http://localhost:1313/'
+locale = 'es-ES'
+title = 'Acervo'
+[params]
+  description = "Biblioteca digital de obras en dominio público en español"
+  author = "Acervo"
